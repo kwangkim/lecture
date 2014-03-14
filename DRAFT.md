@@ -9,9 +9,8 @@
 - Getting involved
 - FAQs
 - Contributing
-- Installing
 
-## Project Goals
+## Project features
 
 ### More powerful plugins
 
@@ -59,6 +58,8 @@ in the IRC `irc.freenode.net` **#neovim** channel. If you'd like to get involved
 in the development process start by joining there.
 
 ## FAQs
+
+TODO
 
 [github]: https://github.com
 [google-group]: https://groups.google.com/forum/#!forum/neovim
