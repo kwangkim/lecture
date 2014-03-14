@@ -59,7 +59,10 @@ in the development process start by joining there.
 
 ## FAQs
 
-TODO
+### Is it ready to download and run now with all the features?
+
+No. Although some features are a work in progress, Neovim isn't at a stable
+point. Using of Neovim should be done with caution as things may change.
 
 [github]: https://github.com
 [google-group]: https://groups.google.com/forum/#!forum/neovim
