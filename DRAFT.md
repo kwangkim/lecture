@@ -10,7 +10,7 @@
 - FAQs
 - Contributing
 
-## Project features
+## Planned features
 
 ### More powerful plugins
 
