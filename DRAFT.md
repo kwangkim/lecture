@@ -19,7 +19,7 @@ for extension in any language. The idea is to allow plugins to be co-processes
 that communicate with Vim asynchronously. This allows the plugin to listen for
 events and to send commands to Vim at anytime.
 
-Your old plugins will still work as well as compatibility layers will be
+Your old plugins will still work with Neovim as a compatibility layers will be
 provided. Little to no modification will be required.
 
 ### Better GUI architecture
