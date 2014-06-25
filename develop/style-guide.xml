@@ -175,17 +175,6 @@ redirect_from:
 
 <CATEGORY title="Other C Features">
 
-  <STYLEPOINT title="Variable-Length Arrays and alloca()">
-    <SUMMARY>
-      We do not allow variable-length arrays or <code>alloca()</code>.
-    </SUMMARY>
-    <BODY>
-      <p>
-        Variable-length arrays can cause hard to detect stack overflows.
-      </p>
-    </BODY>
-  </STYLEPOINT>
-
   <STYLEPOINT title="Postincrement and Postdecrement">
     <SUMMARY>
       Use postfix form (<code>i++</code>) in statements.
