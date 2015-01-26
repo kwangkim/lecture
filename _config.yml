@@ -2,16 +2,16 @@ highlighter: pygments
 permalink: pretty
 markdown: kramdown
 
-title: Neovim
-description: "vim's rebirth for the 21st century"
+title: Lecture
+description: "Lecture theme inspired from newvim"
 
 news:
-    name: Neovim Newsletter
-    authors: Neovim Community
-    url: http://neovim.org/news
+    name: Lecture News
+    authors: lecture news
+    url: http://kwangkim.github.io/lecture/news
     feed: /news.xml
 
-url: "http://neovim.org"
+url: "http://kwangkim.github.io/lecture"
 
 gems:
     - jekyll-redirect-from
