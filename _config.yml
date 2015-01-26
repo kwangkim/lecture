@@ -12,6 +12,7 @@ news:
     feed: /news.xml
 
 url: "http://kwangkim.github.io/lecture"
+basepath : "lecture/"
 
 gems:
     - jekyll-redirect-from
